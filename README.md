@@ -1,4 +1,10 @@
-# README #
+# README
+
+## James Doe Portfolio (version 1)
+**Built date:** Early 2012
+
+**Website URL:** [http://jamesdoe-v1.nfshost.com](http://jamesdoe-v1.nfshost.com)
+**Git Repo:** [https://github.com/dchantzis/jamesdoe-v1](https://github.com/dchantzis/jamesdoe-v1)
 
 A website for the display of illustrations, sketches and photos. Visitors of this site can view images and add leave comments for each of them.
 
@@ -7,11 +13,11 @@ The system features a CMS where the administrator can:
 * Create, update and delete site updates.
 * Add, edit, delete image comments.
 
-This website currently functions for demonstration purposes only.
+**This website currently functions for demonstration purposes only.**
 
-[This is a redesigned version of a personal website]
+*This is a redesigned version of a personal website*
 
-### Technologies Used: ###
+### Technologies and tools used:
 
 * PHP
 * AJAX
@@ -21,6 +27,11 @@ This website currently functions for demonstration purposes only.
 * Javascript
 * AJAX
 * MySQL
+* Adobe Photoshop
 
-### Created: Early 2012 ###
-[This is a redesigned version of a personal website]
+**Dimitrios Chantzis**
+- [dimitrioschantzis.com](http://www.dimitrioschantzis.com)
+- <https://github.com/dchantzis>
+
+## Screenshots
+![Image 1](http://jamesdoe-v1.nfshost.com/images/screenshots/screenshot-1.png)
