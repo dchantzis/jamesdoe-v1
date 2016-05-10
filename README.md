@@ -14,10 +14,12 @@ This website currently functions for demonstration purposes only.
 ### Technologies Used: ###
 
 * PHP
-* AJAX (jQuery libraries)
+* AJAX
 * HTML5
 * CSS3
+* jQuery
 * Javascript
+* AJAX
 * MySQL
 
 ### Created: Early 2012 ###
